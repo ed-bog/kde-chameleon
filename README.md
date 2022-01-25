@@ -45,6 +45,8 @@ This script only generates and applies a KDE color scheme, which is active in al
 If you want to theme additional applications like spotify/discord/firefox/... 
 you can easily plug in other scripts that automatically do that for you too based on this color scheme.
 
+At the end of the script theres a call to execute `other_scripts.sh` where you can add your own scripts based on your needs.
+
 There are already alot of scripts availible to theme different applications using pywal, check out : 
 
 https://github.com/dylanaraps/pywal/wiki/Customization
